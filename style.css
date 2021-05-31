@@ -1,0 +1,10 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1,
+h2 {
+  color: #ef233c;
+  width: 100vw;
+  text-align: center;
+  text-shadow: 5px 5px 5px #dee2e6;
+}
